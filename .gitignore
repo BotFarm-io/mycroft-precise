@@ -18,6 +18,7 @@ __pycache__/
 *.json
 *.pbtxt
 *.wav
+*.logs
 
 # Data folders
 /*/wake-word/
